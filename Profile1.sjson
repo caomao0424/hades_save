@@ -1,0 +1,18 @@
+{
+  WindowHeight = 1080
+  MasterVolume = 0.114403
+  UseMouse = true
+  NewUpdateSoundRevisionViewed = 37133
+  BackupSaveCount = 1
+  FxVolume = 0.945036
+  LastRoadmapRevisionViewed = 37133
+  MusicVolume = 0.926485
+  DisplayIndex = 0
+  ValidCheckpoint = false
+  LastPatchNoteRevisionViewed = 37133
+  ControlsResetRevisionViewed = 37133
+  Y = 1080
+  X = 1920
+  DefaultControlsChosen = true
+  WindowWidth = 1920
+}

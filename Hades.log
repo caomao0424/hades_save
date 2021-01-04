@@ -1,0 +1,763 @@
+date       time     [thread name/id ]                   file:line    v |
+2021-01-04 13:00:08 [MainThread     ]                log.cpp:279   INFO| Opened log file Hades.log
+2021-01-04 13:00:08 [MainThread     ]            program.cpp:1429   DBG| Previous stack guard size was 0 bytes
+2021-01-04 13:00:08 [MainThread     ]          optionset.cpp:157   INFO| argument: /c=..\
+2021-01-04 13:00:08 [MainThread     ]          optionset.cpp:157   INFO| argument: /steampowered
+2021-01-04 13:00:08 [MainThread     ]          optionset.cpp:157   INFO| argument: /DirectLoadShell=true
+2021-01-04 13:00:08 [MainThread     ]          optionset.cpp:157   INFO| argument: /DebugMessages=false
+2021-01-04 13:00:08 [MainThread     ]          optionset.cpp:157   INFO| argument: /DebugKeysEnabled=false
+2021-01-04 13:00:08 [MainThread     ]          optionset.cpp:157   INFO| argument: /ShowFPS=false
+2021-01-04 13:00:08 [MainThread     ]          optionset.cpp:157   INFO| argument: /PerfDashWarnings=false
+2021-01-04 13:00:08 [MainThread     ]          optionset.cpp:157   INFO| argument: /VerboseScriptLogging=false
+2021-01-04 13:00:08 [MainThread     ]          optionset.cpp:157   INFO| argument: /UnsafeDebugKeysEnabled=false
+2021-01-04 13:00:08 [MainThread     ]          optionset.cpp:157   INFO| argument: /LiveCreateTextures=false
+2021-01-04 13:00:08 [MainThread     ]    platformservice.cpp:386    DBG| Processor Count : 6
+2021-01-04 13:00:08 [MainThread     ]            program.cpp:1596   DBG| TotalRam: 17046269952
+2021-01-04 13:00:08 [MainThread     ]            program.cpp:1597   DBG| Running Hades in 64-bit
+2021-01-04 13:00:08 [MainThread     ]       pcsavedevice.cpp:253   INFO| Opening save file for reading: activeProfile
+2021-01-04 13:00:08 [MainThread     ]     binaryloaddata.cpp:12    INFO| Reading 16 bytes
+2021-01-04 13:00:08 [MainThread     ]     profilemanager.cpp:40    INFO| Loading default profile C:\Users\chenj\Documents\Saved Games\Hades Profile1
+2021-01-04 13:00:08 [MainThread     ]     profilemanager.cpp:187   INFO| ProfileManager::Load(): Profile1.sjson 
+2021-01-04 13:00:08 [MainThread     ]       pcsavedevice.cpp:253   INFO| Opening save file for reading: Profile1.sjson
+2021-01-04 13:00:08 [MainThread     ]      configoptions.cpp:1442  INFO| ConfigOption: WindowHeight = 1080
+2021-01-04 13:00:08 [MainThread     ]      configoptions.cpp:1456  INFO| ConfigOption: MasterVolume = 0.114403
+2021-01-04 13:00:08 [MainThread     ]      configoptions.cpp:1442  INFO| ConfigOption: NewUpdateSoundRevisionViewed = 37133
+2021-01-04 13:00:08 [MainThread     ]      configoptions.cpp:1442  INFO| ConfigOption: BackupSaveCount = 1
+2021-01-04 13:00:08 [MainThread     ]      configoptions.cpp:1456  INFO| ConfigOption: FxVolume = 0.945036
+2021-01-04 13:00:08 [MainThread     ]      configoptions.cpp:1442  INFO| ConfigOption: LastRoadmapRevisionViewed = 37133
+2021-01-04 13:00:08 [MainThread     ]      configoptions.cpp:1456  INFO| ConfigOption: MusicVolume = 0.926485
+2021-01-04 13:00:08 [MainThread     ]      configoptions.cpp:1442  INFO| ConfigOption: DisplayIndex = 0
+2021-01-04 13:00:08 [MainThread     ]      configoptions.cpp:1435  INFO| ConfigOption: ValidCheckpoint = false
+2021-01-04 13:00:08 [MainThread     ]      configoptions.cpp:1442  INFO| ConfigOption: LastPatchNoteRevisionViewed = 37133
+2021-01-04 13:00:08 [MainThread     ]      configoptions.cpp:1442  INFO| ConfigOption: ControlsResetRevisionViewed = 37133
+2021-01-04 13:00:08 [MainThread     ]      configoptions.cpp:1442  INFO| ConfigOption: Y = 1080
+2021-01-04 13:00:08 [MainThread     ]      configoptions.cpp:1442  INFO| ConfigOption: X = 1920
+2021-01-04 13:00:08 [MainThread     ]      configoptions.cpp:1435  INFO| ConfigOption: DefaultControlsChosen = true
+2021-01-04 13:00:08 [MainThread     ]      configoptions.cpp:1442  INFO| ConfigOption: WindowWidth = 1920
+2021-01-04 13:00:08 [MainThread     ]      configoptions.cpp:1435  INFO| ConfigOption: UseGamepadGlyphs = true
+2021-01-04 13:00:08 [MainThread     ]     profilemanager.cpp:207   INFO| Load profile successful
+2021-01-04 13:00:08 [MainThread     ]  windowsfilesystem.cpp:209    ERR| Error opening file: C:\Users\chenj\Documents\Saved Games\Hades\DESKTOP-MC6MT67.sjson -- rb (error: No such file or directory)
+2021-01-04 13:00:08 [MainThread     ]  windowsfilesystem.cpp:209    ERR| Error opening file: E:\steam\steamapps\common\Hades\Content\ConfigOptions\DESKTOP-MC6MT67.sjson -- rb (error: No such file or directory)
+2021-01-04 13:00:08 [MainThread     ]      configoptions.cpp:1463  INFO| ConfigOption: NextUpdateDate = NextUpdateCountdownCustom
+2021-01-04 13:00:08 [MainThread     ]      configoptions.cpp:1463  INFO| ConfigOption: LastUpdateDate = 07-03-2020
+2021-01-04 13:00:08 [MainThread     ]      configoptions.cpp:1463  INFO| ConfigOption: UpdateWarningDate = 11-01-2020
+2021-01-04 13:00:08 [MainThread     ]      configoptions.cpp:1463  INFO| ConfigOption: SaveCollectionBeginDate = 10-05-2020
+2021-01-04 13:00:08 [MainThread     ]      configoptions.cpp:1463  INFO| ConfigOption: SaveCollectionEndDate = 10-09-2020
+2021-01-04 13:00:08 [MainThread     ]     binarysavedata.cpp:17    INFO| Writing 16 bytes
+2021-01-04 13:00:08 [MainThread     ]            program.cpp:1650   DBG| Initial startup in 0.0 msec
+2021-01-04 13:00:08 [MainThread     ]            program.cpp:1651   DBG| Profile load in 0.0 msec
+2021-01-04 13:00:08 [MainThread     ]        windowsbase.cpp:641   INFO| Created window app Hades
+2021-01-04 13:00:08 [MainThread     ]          sdlwindow.cpp:26     DBG| SDL Initialized with UseNativeGaInputNoControllers
+2021-01-04 13:00:08 [MainThread     ]         resolution.cpp:141    DBG| Monitor modes:
+2021-01-04 13:00:08 [MainThread     ]            program.cpp:1893  INFO| DisplayModes Configured
+2021-01-04 13:00:08 [MainThread     ]            program.cpp:2143   DBG| Initializing steam
+2021-01-04 13:00:09 [MainThread     ]            program.cpp:2149   DBG| Steam initialized
+2021-01-04 13:00:09 [MainThread     ]     discord_client.cpp:70    INFO| [Discord SDK] Discord init error: 4
+2021-01-04 13:00:09 [MainThread     ]            program.cpp:1905  INFO| PlatformService Initialized
+2021-01-04 13:00:09 [MainThread     ]     inputsystemsdl.cpp:738    DBG| InputSystemSDL Initialized with UseNativeGaInputNoControllers
+2021-01-04 13:00:09 [MainThread     ]  windowsfilesystem.cpp:209    ERR| Error opening file: E:\steam\steamapps\common\Hades\Content\gamecontrollerdb.txt -- rb (error: No such file or directory)
+2021-01-04 13:00:09 [MainThread     ]            program.cpp:1912  INFO| InputSystem Initialized
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:833   INFO| Created DXGI1.2 factory.
+2021-01-04 13:00:09 [MainThread     ]         filesystem.cpp:307    ERR| Trying to get an unset resource directory '8', make sure the resourceDirectory is set on start of the application
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:1012  INFO| gpuCount = 1
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:1088  INFO| GPU[0] detected. Vendor ID: 10de, Model ID: 1c20, Revision ID: a1, Preset: high, GPU Name: NVIDIA GeForce GTX 1060
+2021-01-04 13:00:09 [MainThread     ]      gpudetecthelper.h:158   INFO| ----Begin printing all graphics adapters available on the system----
+2021-01-04 13:00:09 [MainThread     ]      gpudetecthelper.h:127   INFO| Adapter Name: Intel(R) UHD Graphics 630
+2021-01-04 13:00:09 [MainThread     ]      gpudetecthelper.h:136   INFO| Driver Version: 27.20.100.8682
+2021-01-04 13:00:09 [MainThread     ]      gpudetecthelper.h:145   INFO| Driver Date: 9-5-2020
+2021-01-04 13:00:09 [MainThread     ]      gpudetecthelper.h:127   INFO| Adapter Name: NVIDIA GeForce GTX 1060
+2021-01-04 13:00:09 [MainThread     ]      gpudetecthelper.h:136   INFO| Driver Version: 27.21.14.6079
+2021-01-04 13:00:09 [MainThread     ]      gpudetecthelper.h:145   INFO| Driver Date: 12-3-2020
+2021-01-04 13:00:09 [MainThread     ]      gpudetecthelper.h:160   INFO| ----Finish printing all graphics adapters available on the system----
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:1122  INFO| GPU[0] is selected as default GPU
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:1123  INFO| Name of selected gpu: NVIDIA GeForce GTX 1060
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:1124  INFO| Vendor id of selected gpu: 0x10de
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:1125  INFO| Model id of selected gpu: 0x1c20
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:1126  INFO| Revision id of selected gpu: 0xa1
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:1127  INFO| Preset of selected gpu: high
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:1128  INFO| Available VRAM of selected GPU 6345981952
+2021-01-04 13:00:09 [MainThread     ]      gpudetecthelper.h:127   INFO| Adapter Name: NVIDIA GeForce GTX 1060
+2021-01-04 13:00:09 [MainThread     ]      gpudetecthelper.h:136   INFO| Driver Version: 27.21.14.6079
+2021-01-04 13:00:09 [MainThread     ]      gpudetecthelper.h:145   INFO| Driver Date: 12-3-2020
+2021-01-04 13:00:09 [MainThread     ]            program.cpp:1921  INFO| Renderer Initialized
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:1626  INFO| Swapchain creation SUCCEEDED with SwapEffect 0
+2021-01-04 13:00:09 [MainThread     ]            program.cpp:1924  INFO| Renderer Loaded
+2021-01-04 13:00:09 [MainThread     ]                app.cpp:150   INFO| Starting app: Release 37133
+2021-01-04 13:00:09 [MainThread     ]                app.cpp:168    DBG| Pool logging: 1
+2021-01-04 13:00:09 [MainThread     ]         resolution.cpp:39     DBG| ____________________________________CalculateViewportForAspectRatio __________________
+2021-01-04 13:00:09 [MainThread     ]         resolution.cpp:40     DBG| Target Aspect Ratio :1.777778
+2021-01-04 13:00:09 [MainThread     ]         resolution.cpp:41     DBG| Screen width: 1920 height: 1080
+2021-01-04 13:00:09 [MainThread     ]         resolution.cpp:42     DBG| keepAspectRatio: 1
+2021-01-04 13:00:09 [MainThread     ]         resolution.cpp:46     DBG| actualAspectRatio :1.777778
+2021-01-04 13:00:09 [MainThread     ]         resolution.cpp:50     DBG| height for letterBoxing  :1080
+2021-01-04 13:00:09 [MainThread     ]         resolution.cpp:53     DBG| LetterBoxing  :0
+2021-01-04 13:00:09 [MainThread     ]         resolution.cpp:73     DBG| ____________________________________CalculateViewportForAspectRatio __________________
+2021-01-04 13:00:09 [MainThread     ]         resolution.cpp:91     DBG| ____________________________________Resolution::Resize __________________
+2021-01-04 13:00:09 [MainThread     ]         resolution.cpp:92     DBG| VIEWPORT: X: 0  Y: 0 W: 1920 H: 1080
+2021-01-04 13:00:09 [MainThread     ]         resolution.cpp:93     DBG| SCALE: X: 1.000000 Y: 1.000000
+2021-01-04 13:00:09 [MainThread     ]         resolution.cpp:94     DBG| FULL_VIEWPORT: X: 0  Y: 0 W: 1920 H: 1080
+2021-01-04 13:00:09 [MainThread     ]         resolution.cpp:95     DBG| ____________________________________Resolution::Resize__________________
+2021-01-04 13:00:09 [MainThread     ]                app.cpp:175    DBG| Initializing graphics device: 1920x1080
+2021-01-04 13:00:09 [MainThread     ]                app.cpp:182    DBG| Setting fullscreen: true
+2021-01-04 13:00:09 [MainThread     ]                app.cpp:212    DBG| Create components
+2021-01-04 13:00:09 [MainThread     ]                app.cpp:233    DBG| Full screen bloom
+2021-01-04 13:00:09 [MainThread     ]                app.cpp:237    DBG| Frame rate counter
+2021-01-04 13:00:09 [MainThread     ]                app.cpp:243    DBG| Done with constructor
+2021-01-04 13:00:09 [MainThread     ]                app.cpp:246    DBG| Setting RandomSeed: 1279419952
+2021-01-04 13:00:09 [MainThread     ]                app.cpp:413    DBG| App Initialize
+2021-01-04 13:00:09 [MainThread     ]                app.cpp:424    DBG| numWorkers = 5
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]         direct3d11.cpp:2985  INFO| Descriptor (Sampler) : User specified Static Sampler
+2021-01-04 13:00:09 [MainThread     ]   gameassetmanager.cpp:511   INFO| Loading package: Launch.pkg
+2021-01-04 13:00:09 [MainThread     ]   gameassetmanager.cpp:432   INFO| Start reading manifest Launch
+2021-01-04 13:00:09 [MainThread     ]   gameassetmanager.cpp:485   INFO| Done reading manifest Launch
+2021-01-04 13:00:09 [MainThread     ]   gameassetmanager.cpp:541   INFO| Package Loaded: Launch
+2021-01-04 13:00:09 [MainThread     ]      screenmanager.cpp:112    DBG| Load Launch Pkg took 0.020005 seconds
+2021-01-04 13:00:09 [MainThread     ]   gameassetmanager.cpp:511   INFO| Loading package: Dev.pkg
+2021-01-04 13:00:09 [MainThread     ]   gameassetmanager.cpp:432   INFO| Start reading manifest Dev
+2021-01-04 13:00:09 [MainThread     ]   gameassetmanager.cpp:485   INFO| Done reading manifest Dev
+2021-01-04 13:00:09 [MainThread     ]   gameassetmanager.cpp:541   INFO| Package Loaded: Dev
+2021-01-04 13:00:09 [MainThread     ]      screenmanager.cpp:118    DBG| Dev Pkg took 0.132954 seconds
+2021-01-04 13:00:09 [MainThread     ]      windowservice.cpp:302    DBG| schinese
+2021-01-04 13:00:09 [MainThread     ]  windowsfilesystem.cpp:209    ERR| Error opening file: E:\steam\steamapps\common\Hades\Content\Win\Fonts\zh-CN\Fonts.remap -- rb (error: No such file or directory)
+2021-01-04 13:00:09 [MainThread     ]  windowsfilesystem.cpp:209    ERR| Error opening file: E:\steam\steamapps\common\Hades\Content\Win\Fonts\zh-CN\Fonts.remap -- rb (error: No such file or directory)
+2021-01-04 13:00:09 [MainThread     ]      screenmanager.cpp:125    DBG| Localization::Init() took 0.020963 seconds
+2021-01-04 13:00:09 [MainThread     ]             luaext.cpp:433   INFO| Lua interface destroyed
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H Main.lua 8a6c5395a788bb1a 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RoomManager.lua f7041c5becece3d9 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H Color.lua ddca795138e27eaa 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H UIPresentation.lua f7be41485e42ab42 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H UIScripts.lua 17b97997a9707a6e 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H UIData.lua 4750df3d4600919b 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H CreditsScripts.lua 6f02a73d90021379 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H CreditsData.lua cac8a6e001add2a6 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H EventPresentation.lua 62eb5810f290ae28 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H AudioScripts.lua 3a183ffebe4c99cb 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H Narrative.lua 53ebe8654b5f52a7 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H CodexData.lua bcc47fc7a149117 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H GiftData.lua 7f13f36db1af9536 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H SellTraitData.lua 9594e30c02924c86 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H StoreData.lua 9ad34d3576668f1c 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H WeaponUpgradeData.lua a6487f240fa5b81b 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H BoonInfoScreenData.lua 86c638cc35e645be 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H GhostData.lua 6f38c0746f3e8330 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H ObstacleData.lua 1eeb69eb0a00422 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H CodexScripts.lua b4da6188ced5e2f1 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H UtilityScripts.lua 48d6c53884244b24 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H Random.lua d338bbe61e023a40 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H DebugScripts.lua 3bdae135e8de794f 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H PlayerAIData.lua e8d423d0ddbaa813 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H Localization.lua c168cdd5fd1ae2bc 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H Art.lua 7e7dd03e9730baa 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H EnemyAI.lua 5b4bce603857ef3e 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H UpgradeManager.lua 4423449df09d3859 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H FishingScripts.lua 8f328e0150d8050d 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H FishingData.lua c074aaa58f4d3f9c 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H AwardMenuScripts.lua 492af7d42cac023d 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H KeepsakeScripts.lua 105baebea925dfbf 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H StoreScripts.lua e3c3692f60dc7384 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H SellTraitScripts.lua 6a3bd85707d243aa 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H MarketScreen.lua d000187d3df56ad8 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H GhostAdminScreen.lua d89b4238ac9af8eb 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H MusicPlayerScreen.lua 38a627d204291846 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H QuestLogScreen.lua 461f42a048598970 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H AchievementLogic.lua b1c1f4950f7cdbc7 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H BadgePresentation.lua 28099edd59e89ac4 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H BadgeLogic.lua 10d6013a05a785f0 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RunClearScreen.lua 2763c65689433d51 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RunHistoryScreen.lua 97af8dace0d961ed 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H GameStatsScreen.lua 6ebfb5570ee70371 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RoomPresentation.lua f8e2d12390d5071c 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RunData.lua ed39dfbec192c315 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H WeaponSets.lua d67ef5ca0cc1b686 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H EncounterSets.lua 1256cb2441035ce4 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H EnemySets.lua 3c9a7c306cd40e2b 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H GiftScripts.lua 76c4568d06043f7f 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RoomEvents.lua 9fbdff5f92074ff6 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H Interactables.lua 4e9f4975a73aa767 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H Objectives.lua 60b65a2ff6c8a37 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H Powers.lua 13d15dd2d4610d5 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H AssistScripts.lua 8ee57ac95b46a568 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H ShoutScripts.lua 24233229191dbf79 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H TextLineSets.lua 7801902c74e7c8c 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H AudioData.lua acb2cae9056b98c2 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H GameStateFlagData.lua d9632d4f9e2db5b1 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H KeywordData.lua 2862c920067e9703 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H EnemyData.lua 56aa55a2f6a9743 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H NPCData.lua 7249d1ee575a04ca 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H EncounterData.lua 4cec380e03889b83 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RoomData.lua e37592b3c8e752ed 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RoomDataTartarus.lua 5015f09674c5965f 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RoomDataAsphodel.lua 4747520eb556722d 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RoomDataElysium.lua 73bd438cfb725567 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RoomDataStyx.lua 3b396e7fda862cff 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RoomDataSurface.lua 1ac6095f03f25079 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RoomDataSecrets.lua 4c7da7125efd2fa1 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H HeroData.lua 87e8902890c82feb 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H LootData.lua ac588f5a3283c270 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H MetaUpgradeData.lua c3a838cc6cce015a 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H TraitData.lua 42b931f06baf016a 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H TraitScripts.lua 851bf9f1047d6b26 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H WeaponData.lua 1fa180e4cd233398 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H EnemyUpgradeData.lua da8f4ebef1215498 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H ConsumableData.lua 748a0f9b3535d055 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H ConditionalItemData.lua 3f4c47b5b0e803f6 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H QuestData.lua c50d1f5ea4f59b0 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H AchievementData.lua f9b9b573db9bb00f 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RunClearMessageData.lua 84fff61856db0724 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H BadgeData.lua bcca5d794191689a 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H UpgradeChoice.lua 1149af58f1750426 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H MetaUpgrades.lua 2285e7818e710a3f 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H ObjectiveData.lua dd8653dd8276150e 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H DeathLoopData.lua 83da53c1a2192970 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RunManager.lua 8b463f1c0be29f83 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H Combat.lua 6afeb3769cf3ff9b 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H CombatPresentation.lua 428e93e2aaadd498 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H GhostScripts.lua 26edaf5678ae3971 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H TraitTrayScripts.lua ec453903c28834a9 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H WeaponUpgradeScripts.lua 4f84de02ac0fd61d 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H BoonInfoScreenScripts.lua 2b961e7cc3cd72d2 
+2021-01-04 13:00:09 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H DeathLoop.lua 3ef52cc42853de65 
+2021-01-04 13:00:09 [NoName         ]       pcsavedevice.cpp:253   INFO| Opening save file for reading: Profile1.ctrls
+2021-01-04 13:00:09 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 966 bytes
+2021-01-04 13:00:09 [MainThread     ]    gamedatamanager.cpp:355   INFO| Reading game data from E:\steam\steamapps\common\Hades\Content\Game
+2021-01-04 13:00:09 [MainThread     ]                app.cpp:330    DBG| App.resize 1920x1080
+2021-01-04 13:00:09 [MainThread     ]         resolution.cpp:39     DBG| ____________________________________CalculateViewportForAspectRatio __________________
+2021-01-04 13:00:09 [MainThread     ]         resolution.cpp:40     DBG| Target Aspect Ratio :1.777778
+2021-01-04 13:00:09 [MainThread     ]         resolution.cpp:41     DBG| Screen width: 1920 height: 1080
+2021-01-04 13:00:09 [MainThread     ]         resolution.cpp:42     DBG| keepAspectRatio: 1
+2021-01-04 13:00:09 [MainThread     ]         resolution.cpp:46     DBG| actualAspectRatio :1.777778
+2021-01-04 13:00:09 [MainThread     ]         resolution.cpp:50     DBG| height for letterBoxing  :1080
+2021-01-04 13:00:09 [MainThread     ]         resolution.cpp:53     DBG| LetterBoxing  :0
+2021-01-04 13:00:09 [MainThread     ]         resolution.cpp:73     DBG| ____________________________________CalculateViewportForAspectRatio __________________
+2021-01-04 13:00:09 [MainThread     ]         resolution.cpp:91     DBG| ____________________________________Resolution::Resize __________________
+2021-01-04 13:00:09 [MainThread     ]         resolution.cpp:92     DBG| VIEWPORT: X: 0  Y: 0 W: 1920 H: 1080
+2021-01-04 13:00:09 [MainThread     ]         resolution.cpp:93     DBG| SCALE: X: 1.000000 Y: 1.000000
+2021-01-04 13:00:09 [MainThread     ]         resolution.cpp:94     DBG| FULL_VIEWPORT: X: 0  Y: 0 W: 1920 H: 1080
+2021-01-04 13:00:09 [MainThread     ]         resolution.cpp:95     DBG| ____________________________________Resolution::Resize__________________
+2021-01-04 13:00:09 [MainThread     ]       launchscreen.cpp:135    DBG| new LaunchScreen
+2021-01-04 13:00:09 [NoName         ]       audiomanager.cpp:372    DBG| AudioManager.Initialize
+2021-01-04 13:00:09 [MainThread     ]  platformanalytics.cpp:23     DBG| Initializing Analytics
+2021-01-04 13:00:09 [MainThread     ]  platformanalytics.cpp:31     DBG| Done initializing Analytics
+2021-01-04 13:00:09 [MainThread     ]            program.cpp:2089  INFO| Application Init+Load 1.422000
+2021-01-04 13:00:09 [MainThread     ]            program.cpp:2103   DBG| User Document Path found!!
+2021-01-04 13:00:09 [MainThread     ]            program.cpp:2117   DBG| Log file created
+2021-01-04 13:00:09 [MainThread     ]            program.cpp:2131   DBG| Data correctly read!!
+2021-01-04 13:00:09 [MainThread     ]        windowsbase.cpp:1091  INFO| Application Init+Load 1.422000
+2021-01-04 13:00:10 [NoName         ]       audiomanager.cpp:438    DBG| FMOD Default Rate 48000 Mode 0 Speakers 0 Software Channels: 64
+2021-01-04 13:00:10 [NoName         ]       audiomanager.cpp:444    DBG| FMOD changed to Rate: 48000 Mode: 3 Speakers: 2 Software Channels: 64
+2021-01-04 13:00:10 [NoName         ]       audiomanager.cpp:500    DBG| FMOD post init Rate 48000 Mode 3 Speakers 2
+2021-01-04 13:00:10 [NoName         ]       audiomanager.cpp:718    DBG| Loading bank: MasterBank.bank
+2021-01-04 13:00:10 [NoName         ]       launchscreen.cpp:62     DBG| Load Manifests took 0.158964
+2021-01-04 13:00:10 [NoName         ]       audiomanager.cpp:718    DBG| Loading bank: MasterBank.strings.bank
+2021-01-04 13:00:10 [NoName         ]       audiomanager.cpp:718    DBG| Loading bank: Ambience.bank
+2021-01-04 13:00:10 [NoName         ]       launchscreen.cpp:86     DBG| binkAtlases took 0.094605
+2021-01-04 13:00:10 [NoName         ]   gameassetmanager.cpp:432   INFO| Start reading manifest GUI
+2021-01-04 13:00:10 [NoName         ]       audiomanager.cpp:718    DBG| Loading bank: Music.bank
+2021-01-04 13:00:10 [NoName         ]   gameassetmanager.cpp:485   INFO| Done reading manifest GUI
+2021-01-04 13:00:10 [NoName         ]   gameassetmanager.cpp:432   INFO| Start reading manifest GUI_Mouse
+2021-01-04 13:00:10 [NoName         ]   gameassetmanager.cpp:485   INFO| Done reading manifest GUI_Mouse
+2021-01-04 13:00:10 [NoName         ]   gameassetmanager.cpp:432   INFO| Start reading manifest Fx
+2021-01-04 13:00:10 [NoName         ]   gameassetmanager.cpp:485   INFO| Done reading manifest Fx
+2021-01-04 13:00:10 [NoName         ]   gameassetmanager.cpp:432   INFO| Start reading manifest RoomManager
+2021-01-04 13:00:10 [NoName         ]       audiomanager.cpp:718    DBG| Loading bank: Sounds.bank
+2021-01-04 13:00:10 [NoName         ]   gameassetmanager.cpp:485   INFO| Done reading manifest RoomManager
+2021-01-04 13:00:10 [NoName         ]   gameassetmanager.cpp:432   INFO| Start reading manifest UIScripts
+2021-01-04 13:00:10 [NoName         ]   gameassetmanager.cpp:485   INFO| Done reading manifest UIScripts
+2021-01-04 13:00:10 [NoName         ]       launchscreen.cpp:103    DBG| Load BasePackages took 0.063363
+2021-01-04 13:00:10 [GameAssetManagerLoadThread]   gameassetmanager.cpp:511   INFO| Loading package: GUI.pkg
+2021-01-04 13:00:10 [NoName         ]       audiomanager.cpp:866    DBG| AudioManager categories loaded
+2021-01-04 13:00:10 [NoName         ]       audiomanager.cpp:524    DBG| AudioManager.FModStartup complete
+2021-01-04 13:00:10 [NoName         ]       audiomanager.cpp:382    DBG| AudioManager.Initialize complete
+2021-01-04 13:00:10 [NoName         ]       launchscreen.cpp:119    DBG| AudioManager::Initialize took 0.468813
+2021-01-04 13:00:11 [GameAssetManagerLoadThread]   gameassetmanager.cpp:541   INFO| Package Loaded: GUI
+2021-01-04 13:00:11 [GameAssetManagerLoadThread]   gameassetmanager.cpp:511   INFO| Loading package: GUI_Mouse.pkg
+2021-01-04 13:00:11 [GameAssetManagerLoadThread]   gameassetmanager.cpp:541   INFO| Package Loaded: GUI_Mouse
+2021-01-04 13:00:11 [GameAssetManagerLoadThread]   gameassetmanager.cpp:511   INFO| Loading package: Fx.pkg
+2021-01-04 13:00:14 [GameAssetManagerLoadThread]   gameassetmanager.cpp:541   INFO| Package Loaded: Fx
+2021-01-04 13:00:14 [GameAssetManagerLoadThread]   gameassetmanager.cpp:511   INFO| Loading package: RoomManager.pkg
+2021-01-04 13:00:14 [GameAssetManagerLoadThread]   gameassetmanager.cpp:541   INFO| Package Loaded: RoomManager
+2021-01-04 13:00:14 [GameAssetManagerLoadThread]   gameassetmanager.cpp:511   INFO| Loading package: UIScripts.pkg
+2021-01-04 13:00:14 [GameAssetManagerLoadThread]   gameassetmanager.cpp:541   INFO| Package Loaded: UIScripts
+2021-01-04 13:00:14 [NoName         ]       launchscreen.cpp:105    DBG| Finished AssetManager Loading 
+2021-01-04 13:00:14 [NoName         ]    gamedatamanager.cpp:821   INFO| Reading game data from E:\steam\steamapps\common\Hades\Content\Game
+2021-01-04 13:00:14 [NoName         ]    gamedatamanager.cpp:835    DBG| ReadUnitData took 0.008537 seconds
+2021-01-04 13:00:14 [NoName         ]    gamedatamanager.cpp:904    DBG| ReadWeaponData took 0.017701 seconds
+2021-01-04 13:00:14 [NoName         ]    gamedatamanager.cpp:926    DBG| Projectile took 0.025679 seconds
+2021-01-04 13:00:14 [NoName         ]    gamedatamanager.cpp:941    DBG| ReadObstacleData took 0.054637 seconds
+2021-01-04 13:00:14 [NoName         ]    gamedatamanager.cpp:954    DBG| Other Dat took 0.003289 seconds
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 32202 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 128202 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 28362 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 2602 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 39882 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 19402 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 30922 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 32202 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 38602 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 38602 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 32202 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 38602 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 184559 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 69359 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 115439 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 19439 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 1401 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 8161 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 53961 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 36041 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 10441 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 33481 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 1401 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 3561 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 1401 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 51401 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 61641 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 8761 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 6161 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 59721 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 52681 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 128201 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 224201 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 107721 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 56521 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 10441 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 3801 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 45436 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 1564 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 41596 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 30844 bytes
+2021-01-04 13:00:14 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 38524 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 23164 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 92284 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 32380 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 75940 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 101540 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 71844 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 119972 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 17572 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 24740 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 29860 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 50340 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 47771 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 107803 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 107803 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 107803 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 114971 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 215323 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 57627 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 183067 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 179483 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 55835 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 75547 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 54043 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 114971 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 57627 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 89883 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 111387 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 140059 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 55835 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 54043 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 57627 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 114971 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 215323 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 8795 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 57627 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 236827 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 36123 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 89883 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 197403 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 45083 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 45083 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 54043 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 86299 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 136475 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 138267 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 114971 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 57627 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 57627 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 57627 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 57627 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 57627 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 186651 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 143643 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 161563 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 54043 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 57627 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 269083 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 304923 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 63003 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 204571 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 150811 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 134683 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 107803 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 27163 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 229659 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 28955 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 304923 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 236827 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 71963 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 122139 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 168295 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 114971 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 118555 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 63003 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 114971 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 134683 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 111387 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 63003 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 89883 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 107803 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 125723 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 154395 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 63003 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 114971 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 114971 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 63003 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 114971 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 111387 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 149915 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 89883 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 159323 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 116763 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 44187 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 22683 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 125723 bytes
+2021-01-04 13:00:15 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 18203 bytes
+2021-01-04 13:00:15 [NoName         ]    gamedatamanager.cpp:977    DBG| ReadAnimationData took 0.665455 seconds
+2021-01-04 13:00:15 [NoName         ]    gamedatamanager.cpp:982    DBG| ReadTextData took 0.354143 seconds
+2021-01-04 13:00:15 [NoName         ]    gamedatamanager.cpp:990    DBG| ReadGameData took 1.130147 seconds
+2021-01-04 13:00:16 [MainThread     ]       launchscreen.cpp:301    DBG| Done with boot load
+2021-01-04 13:00:16 [MainThread     ]           ingameui.cpp:43    INFO| InGameUI Construct
+2021-01-04 13:00:18 [MainThread     ]       launchscreen.cpp:667    DBG| Launch took 9.768852 seconds
+2021-01-04 13:00:20 [NoName         ]         platformfile.h:191    DBG| WindowsFile::DirectoryGetFiles(  C:\Users\chenj\Documents\Saved Games\Hades  ,  , *.sav  )
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:840   INFO| ProgressManager.load Profile1.sav IPlatformSaveDevice
+2021-01-04 13:00:20 [NoName         ]       pcsavedevice.cpp:253   INFO| Opening save file for reading: Profile1.sav
+2021-01-04 13:00:20 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 552394 bytes
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:879   INFO| Load succeeded
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:840   INFO| ProgressManager.load Profile1.v.sav IPlatformSaveDevice
+2021-01-04 13:00:20 [NoName         ]       pcsavedevice.cpp:253   INFO| Opening save file for reading: Profile1.v.sav
+2021-01-04 13:00:20 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 9 bytes
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:879   INFO| Load succeeded
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:840   INFO| ProgressManager.load Profile1_Temp.sav IPlatformSaveDevice
+2021-01-04 13:00:20 [NoName         ]       pcsavedevice.cpp:253   INFO| Opening save file for reading: Profile1_Temp.sav
+2021-01-04 13:00:20 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 613699 bytes
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:879   INFO| Load succeeded
+2021-01-04 13:00:20 [MainThread     ] remoteprofilescreen.cpp:562    DBG| ActiveProfile = Profile1
+2021-01-04 13:00:20 [MainThread     ] remoteprofilescreen.cpp:576    DBG| Profile1 == Profile1, ActiveProfile Index = 0
+2021-01-04 13:00:20 [MainThread     ] remoteprofilescreen.cpp:645    DBG| Finishing Creating Components For RemoteProfileScreen
+2021-01-04 13:00:20 [NoName         ] remoteprofilescreen.cpp:58     DBG| SetupProfiles
+2021-01-04 13:00:20 [NoName         ]         platformfile.h:191    DBG| WindowsFile::DirectoryGetFiles(  C:\Users\chenj\Documents\Saved Games\Hades  ,  , *.sjson  )
+2021-01-04 13:00:20 [NoName         ] remoteprofilescreen.cpp:63     DBG| Total saves :3
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:190    DBG| Getting Preferred Save
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:198    DBG| MainSaveInfo
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:206    DBG| tempSaveInfo
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:214    DBG| mainSaveIndex >
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:220    DBG| tempSaveIndex >
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:240    DBG| mainSaveIndex >= 0
+2021-01-04 13:00:20 [NoName         ] remoteprofilescreen.cpp:72     DBG| localSaveFileName  :Profile1.sav
+2021-01-04 13:00:20 [NoName         ] remoteprofilescreen.cpp:75     DBG| !saveFileName.empty()
+2021-01-04 13:00:20 [NoName         ] remoteprofilescreen.cpp:79     DBG| mProfileButtons[0]->mDataValue: Profile1
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:190    DBG| Getting Preferred Save
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:198    DBG| MainSaveInfo
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:206    DBG| tempSaveInfo
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:214    DBG| mainSaveIndex >
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:220    DBG| tempSaveIndex >
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:240    DBG| mainSaveIndex >= 0
+2021-01-04 13:00:20 [NoName         ] remoteprofilescreen.cpp:72     DBG| localSaveFileName  :
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:190    DBG| Getting Preferred Save
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:198    DBG| MainSaveInfo
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:206    DBG| tempSaveInfo
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:214    DBG| mainSaveIndex >
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:220    DBG| tempSaveIndex >
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:240    DBG| mainSaveIndex >= 0
+2021-01-04 13:00:20 [NoName         ] remoteprofilescreen.cpp:72     DBG| localSaveFileName  :
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:190    DBG| Getting Preferred Save
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:198    DBG| MainSaveInfo
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:206    DBG| tempSaveInfo
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:214    DBG| mainSaveIndex >
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:220    DBG| tempSaveIndex >
+2021-01-04 13:00:20 [NoName         ]    progressmanager.cpp:240    DBG| mainSaveIndex >= 0
+2021-01-04 13:00:20 [NoName         ] remoteprofilescreen.cpp:72     DBG| localSaveFileName  :
+2021-01-04 13:00:21 [MainThread     ] remoteprofilescreen.cpp:727    DBG| Enter Profile Button
+2021-01-04 13:00:21 [MainThread     ] remoteprofilescreen.cpp:450    DBG| Enter StartOrContinueGame
+2021-01-04 13:00:21 [MainThread     ] remoteprofilescreen.cpp:470    DBG| loading CheckPoint
+2021-01-04 13:00:21 [MainThread     ] remoteprofilescreen.cpp:484    DBG| Exit StartOrContinueGame
+2021-01-04 13:00:21 [MainThread     ]    progressmanager.cpp:1240  INFO| ProgressManager.load Profile1.sav IPlatformSaveDevice
+2021-01-04 13:00:21 [NoName         ]       pcsavedevice.cpp:253   INFO| Opening save file for reading: Profile1.sav
+2021-01-04 13:00:21 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 552394 bytes
+2021-01-04 13:00:21 [MainThread     ]    progressmanager.cpp:1302  INFO| Load succeeded
+2021-01-04 13:00:21 [MainThread     ]                app.cpp:1474   DBG| App.Reset Start
+2021-01-04 13:00:22 [MainThread     ]             luaext.cpp:433   INFO| Lua interface destroyed
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H Main.lua 8a6c5395a788bb1a 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RoomManager.lua f7041c5becece3d9 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H Color.lua ddca795138e27eaa 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H UIPresentation.lua f7be41485e42ab42 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H UIScripts.lua 17b97997a9707a6e 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H UIData.lua 4750df3d4600919b 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H CreditsScripts.lua 6f02a73d90021379 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H CreditsData.lua cac8a6e001add2a6 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H EventPresentation.lua 62eb5810f290ae28 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H AudioScripts.lua 3a183ffebe4c99cb 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H Narrative.lua 53ebe8654b5f52a7 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H CodexData.lua bcc47fc7a149117 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H GiftData.lua 7f13f36db1af9536 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H SellTraitData.lua 9594e30c02924c86 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H StoreData.lua 9ad34d3576668f1c 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H WeaponUpgradeData.lua a6487f240fa5b81b 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H BoonInfoScreenData.lua 86c638cc35e645be 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H GhostData.lua 6f38c0746f3e8330 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H ObstacleData.lua 1eeb69eb0a00422 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H CodexScripts.lua b4da6188ced5e2f1 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H UtilityScripts.lua 48d6c53884244b24 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H Random.lua d338bbe61e023a40 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H DebugScripts.lua 3bdae135e8de794f 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H PlayerAIData.lua e8d423d0ddbaa813 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H Localization.lua c168cdd5fd1ae2bc 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H Art.lua 7e7dd03e9730baa 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H EnemyAI.lua 5b4bce603857ef3e 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H UpgradeManager.lua 4423449df09d3859 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H FishingScripts.lua 8f328e0150d8050d 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H FishingData.lua c074aaa58f4d3f9c 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H AwardMenuScripts.lua 492af7d42cac023d 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H KeepsakeScripts.lua 105baebea925dfbf 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H StoreScripts.lua e3c3692f60dc7384 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H SellTraitScripts.lua 6a3bd85707d243aa 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H MarketScreen.lua d000187d3df56ad8 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H GhostAdminScreen.lua d89b4238ac9af8eb 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H MusicPlayerScreen.lua 38a627d204291846 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H QuestLogScreen.lua 461f42a048598970 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H AchievementLogic.lua b1c1f4950f7cdbc7 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H BadgePresentation.lua 28099edd59e89ac4 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H BadgeLogic.lua 10d6013a05a785f0 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RunClearScreen.lua 2763c65689433d51 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RunHistoryScreen.lua 97af8dace0d961ed 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H GameStatsScreen.lua 6ebfb5570ee70371 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RoomPresentation.lua f8e2d12390d5071c 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RunData.lua ed39dfbec192c315 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H WeaponSets.lua d67ef5ca0cc1b686 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H EncounterSets.lua 1256cb2441035ce4 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H EnemySets.lua 3c9a7c306cd40e2b 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H GiftScripts.lua 76c4568d06043f7f 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RoomEvents.lua 9fbdff5f92074ff6 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H Interactables.lua 4e9f4975a73aa767 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H Objectives.lua 60b65a2ff6c8a37 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H Powers.lua 13d15dd2d4610d5 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H AssistScripts.lua 8ee57ac95b46a568 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H ShoutScripts.lua 24233229191dbf79 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H TextLineSets.lua 7801902c74e7c8c 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H AudioData.lua acb2cae9056b98c2 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H GameStateFlagData.lua d9632d4f9e2db5b1 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H KeywordData.lua 2862c920067e9703 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H EnemyData.lua 56aa55a2f6a9743 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H NPCData.lua 7249d1ee575a04ca 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H EncounterData.lua 4cec380e03889b83 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RoomData.lua e37592b3c8e752ed 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RoomDataTartarus.lua 5015f09674c5965f 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RoomDataAsphodel.lua 4747520eb556722d 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RoomDataElysium.lua 73bd438cfb725567 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RoomDataStyx.lua 3b396e7fda862cff 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RoomDataSurface.lua 1ac6095f03f25079 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RoomDataSecrets.lua 4c7da7125efd2fa1 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H HeroData.lua 87e8902890c82feb 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H LootData.lua ac588f5a3283c270 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H MetaUpgradeData.lua c3a838cc6cce015a 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H TraitData.lua 42b931f06baf016a 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H TraitScripts.lua 851bf9f1047d6b26 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H WeaponData.lua 1fa180e4cd233398 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H EnemyUpgradeData.lua da8f4ebef1215498 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H ConsumableData.lua 748a0f9b3535d055 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H ConditionalItemData.lua 3f4c47b5b0e803f6 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H QuestData.lua c50d1f5ea4f59b0 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H AchievementData.lua f9b9b573db9bb00f 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RunClearMessageData.lua 84fff61856db0724 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H BadgeData.lua bcca5d794191689a 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H UpgradeChoice.lua 1149af58f1750426 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H MetaUpgrades.lua 2285e7818e710a3f 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H ObjectiveData.lua dd8653dd8276150e 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H DeathLoopData.lua 83da53c1a2192970 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H RunManager.lua 8b463f1c0be29f83 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H Combat.lua 6afeb3769cf3ff9b 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H CombatPresentation.lua 428e93e2aaadd498 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H GhostScripts.lua 26edaf5678ae3971 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H TraitTrayScripts.lua ec453903c28834a9 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H WeaponUpgradeScripts.lua 4f84de02ac0fd61d 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H BoonInfoScreenScripts.lua 2b961e7cc3cd72d2 
+2021-01-04 13:00:22 [MainThread     ]      scriptmanager.cpp:777   INFO| XX64H DeathLoop.lua 3ef52cc42853de65 
+2021-01-04 13:00:22 [MainThread     ]       audiomanager.cpp:155    DBG| AudioManager.reset
+2021-01-04 13:00:22 [MainThread     ]       audiomanager.cpp:3365   DBG| AudioManager.reset, excludeId = -1, fullWipe = true
+2021-01-04 13:00:22 [MainThread     ]     profilemanager.cpp:40    INFO| Loading default profile C:\Users\chenj\Documents\Saved Games\Hades Profile1
+2021-01-04 13:00:22 [MainThread     ]     profilemanager.cpp:187   INFO| ProfileManager::Load(): Profile1.sjson 
+2021-01-04 13:00:22 [MainThread     ]       pcsavedevice.cpp:253   INFO| Opening save file for reading: Profile1.sjson
+2021-01-04 13:00:22 [MainThread     ]      configoptions.cpp:1442  INFO| ConfigOption: WindowHeight = 1080
+2021-01-04 13:00:22 [MainThread     ]      configoptions.cpp:1456  INFO| ConfigOption: MasterVolume = 0.114403
+2021-01-04 13:00:22 [MainThread     ]      configoptions.cpp:1442  INFO| ConfigOption: NewUpdateSoundRevisionViewed = 37133
+2021-01-04 13:00:22 [MainThread     ]      configoptions.cpp:1442  INFO| ConfigOption: BackupSaveCount = 1
+2021-01-04 13:00:22 [MainThread     ]      configoptions.cpp:1456  INFO| ConfigOption: FxVolume = 0.945036
+2021-01-04 13:00:22 [MainThread     ]      configoptions.cpp:1442  INFO| ConfigOption: LastRoadmapRevisionViewed = 37133
+2021-01-04 13:00:22 [MainThread     ]      configoptions.cpp:1456  INFO| ConfigOption: MusicVolume = 0.926485
+2021-01-04 13:00:22 [MainThread     ]      configoptions.cpp:1442  INFO| ConfigOption: DisplayIndex = 0
+2021-01-04 13:00:22 [MainThread     ]      configoptions.cpp:1435  INFO| ConfigOption: ValidCheckpoint = false
+2021-01-04 13:00:22 [MainThread     ]      configoptions.cpp:1442  INFO| ConfigOption: LastPatchNoteRevisionViewed = 37133
+2021-01-04 13:00:22 [MainThread     ]      configoptions.cpp:1442  INFO| ConfigOption: ControlsResetRevisionViewed = 37133
+2021-01-04 13:00:22 [MainThread     ]      configoptions.cpp:1442  INFO| ConfigOption: Y = 1080
+2021-01-04 13:00:22 [MainThread     ]      configoptions.cpp:1442  INFO| ConfigOption: X = 1920
+2021-01-04 13:00:22 [MainThread     ]      configoptions.cpp:1435  INFO| ConfigOption: DefaultControlsChosen = true
+2021-01-04 13:00:22 [MainThread     ]      configoptions.cpp:1442  INFO| ConfigOption: WindowWidth = 1920
+2021-01-04 13:00:22 [MainThread     ]      configoptions.cpp:1435  INFO| ConfigOption: UseGamepadGlyphs = true
+2021-01-04 13:00:22 [MainThread     ]     profilemanager.cpp:207   INFO| Load profile successful
+2021-01-04 13:00:22 [MainThread     ]  windowsfilesystem.cpp:209    ERR| Error opening file: C:\Users\chenj\Documents\Saved Games\Hades\DESKTOP-MC6MT67.sjson -- rb (error: No such file or directory)
+2021-01-04 13:00:22 [MainThread     ]  windowsfilesystem.cpp:209    ERR| Error opening file: E:\steam\steamapps\common\Hades\Content\ConfigOptions\DESKTOP-MC6MT67.sjson -- rb (error: No such file or directory)
+2021-01-04 13:00:22 [MainThread     ]      configoptions.cpp:1463  INFO| ConfigOption: NextUpdateDate = NextUpdateCountdownCustom
+2021-01-04 13:00:22 [MainThread     ]      configoptions.cpp:1463  INFO| ConfigOption: LastUpdateDate = 07-03-2020
+2021-01-04 13:00:22 [MainThread     ]      configoptions.cpp:1463  INFO| ConfigOption: UpdateWarningDate = 11-01-2020
+2021-01-04 13:00:22 [MainThread     ]      configoptions.cpp:1463  INFO| ConfigOption: SaveCollectionBeginDate = 10-05-2020
+2021-01-04 13:00:22 [MainThread     ]      configoptions.cpp:1463  INFO| ConfigOption: SaveCollectionEndDate = 10-09-2020
+2021-01-04 13:00:22 [MainThread     ]     binarysavedata.cpp:17    INFO| Writing 16 bytes
+2021-01-04 13:00:22 [MainThread     ]                app.cpp:1525   DBG| App.Reset Finished
+2021-01-04 13:00:22 [MainThread     ]              world.cpp:1526  INFO| World::Begin()  -> RoomPreRun
+2021-01-04 13:00:22 [MainThread     ]       audiomanager.cpp:1007   DBG| Unloading map banks
+2021-01-04 13:00:22 [NoName         ]              world.cpp:1370  INFO| PreScriptLoad
+2021-01-04 13:00:22 [NoName         ]              world.cpp:1329  INFO| Loading next map: RoomPreRun
+2021-01-04 13:00:22 [NoName         ]     binaryloaddata.cpp:12    INFO| Reading 164312 bytes
+2021-01-04 13:00:22 [NoName         ]       audiomanager.cpp:967    DBG| Loading map banks for: RoomPreRun
+2021-01-04 13:00:22 [NoName         ]       audiomanager.cpp:718    DBG| Loading bank: DeathArea.bank
+2021-01-04 13:00:22 [NoName         ]    progressmanager.cpp:1157  INFO| ProgressManager::LoadLua 551887 -> 2614745 4.737827 : 0.017539 s
+2021-01-04 13:00:22 [NoName         ]              world.cpp:1382  INFO| PreScriptLoad Done
+2021-01-04 13:00:22 [NoName         ]   gameassetmanager.cpp:432   INFO| Start reading manifest DeathArea
+2021-01-04 13:00:22 [NoName         ]   gameassetmanager.cpp:485   INFO| Done reading manifest DeathArea
+2021-01-04 13:00:22 [NoName         ]              world.cpp:1398   DBG| load packages took 0.004607
+2021-01-04 13:00:22 [GameAssetManagerLoadThread]   gameassetmanager.cpp:511   INFO| Loading package: DeathArea.pkg
+2021-01-04 13:00:22 [NoName         ]              world.cpp:1420   DBG| loadScriptsTask Done 
+2021-01-04 13:00:22 [NoName         ]              world.cpp:1360   DBG| Map Load took 0.032759
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]   gameassetmanager.cpp:541   INFO| Package Loaded: DeathArea
+2021-01-04 13:00:23 [NoName         ]              world.cpp:1424   DBG| Finished Asset Loading 
+2021-01-04 13:00:23 [NoName         ]              world.cpp:1431   DBG| Calling PostLoad
+2021-01-04 13:00:23 [NoName         ]   gameassetmanager.cpp:432   INFO| Start reading manifest PoseidonUpgrade
+2021-01-04 13:00:23 [NoName         ]   gameassetmanager.cpp:485   INFO| Done reading manifest PoseidonUpgrade
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]   gameassetmanager.cpp:511   INFO| Loading package: PoseidonUpgrade.pkg
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]   gameassetmanager.cpp:541   INFO| Package Loaded: PoseidonUpgrade
+2021-01-04 13:00:23 [NoName         ]   gameassetmanager.cpp:432   INFO| Start reading manifest DemeterUpgrade
+2021-01-04 13:00:23 [NoName         ]   gameassetmanager.cpp:485   INFO| Done reading manifest DemeterUpgrade
+2021-01-04 13:00:23 [NoName         ]   gameassetmanager.cpp:432   INFO| Start reading manifest ArtemisUpgrade
+2021-01-04 13:00:23 [NoName         ]   gameassetmanager.cpp:485   INFO| Done reading manifest ArtemisUpgrade
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]   gameassetmanager.cpp:511   INFO| Loading package: DemeterUpgrade.pkg
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]   gameassetmanager.cpp:541   INFO| Package Loaded: DemeterUpgrade
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]   gameassetmanager.cpp:511   INFO| Loading package: ArtemisUpgrade.pkg
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]   gameassetmanager.cpp:541   INFO| Package Loaded: ArtemisUpgrade
+2021-01-04 13:00:23 [NoName         ]  windowsfilesystem.cpp:209    ERR| Error opening file: E:\steam\steamapps\common\Hades\Content\Win\Packages\TrialUpgrade.pkg_manifest -- rb (error: No such file or directory)
+2021-01-04 13:00:23 [NoName         ]  windowsfilesystem.cpp:209    ERR| Error opening file: E:\steam\steamapps\common\Hades\Content\Win\Packages\TrialUpgrade.pkg_manifest -- rb (error: No such file or directory)
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]   gameassetmanager.cpp:511   INFO| Loading package: TrialUpgrade.pkg
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]  windowsfilesystem.cpp:209    ERR| Error opening file: E:\steam\steamapps\common\Hades\Content\Win\Packages\TrialUpgrade.pkg_manifest -- rb (error: No such file or directory)
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]  windowsfilesystem.cpp:209    ERR| Error opening file: E:\steam\steamapps\common\Hades\Content\Win\Packages\TrialUpgrade.pkg -- rb (error: No such file or directory)
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]   gameassetmanager.cpp:397    ERR| Package load failed TrialUpgrade.pkg
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]   gameassetmanager.cpp:541   INFO| Package Loaded: TrialUpgrade
+2021-01-04 13:00:23 [NoName         ]   gameassetmanager.cpp:432   INFO| Start reading manifest AphroditeUpgrade
+2021-01-04 13:00:23 [NoName         ]   gameassetmanager.cpp:485   INFO| Done reading manifest AphroditeUpgrade
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]   gameassetmanager.cpp:511   INFO| Loading package: AphroditeUpgrade.pkg
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]   gameassetmanager.cpp:541   INFO| Package Loaded: AphroditeUpgrade
+2021-01-04 13:00:23 [NoName         ]              world.cpp:1433   DBG| Finished PostLaod
+2021-01-04 13:00:23 [NoName         ]              world.cpp:1435   DBG| Finished Asset Loading 
+2021-01-04 13:00:23 [NoName         ]              world.cpp:1440   DBG| end of postLoadTask
+2021-01-04 13:00:23 [MainThread     ]   gameassetmanager.cpp:432   INFO| Start reading manifest SpearWeapon
+2021-01-04 13:00:23 [MainThread     ]   gameassetmanager.cpp:485   INFO| Done reading manifest SpearWeapon
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]   gameassetmanager.cpp:511   INFO| Loading package: SpearWeapon.pkg
+2021-01-04 13:00:23 [RenderThread   ]     rendercommands.cpp:625   INFO| Resetting RenderMesh Caches. ResetRequest: 1, BufferMaxLoad: 0.00
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]   gameassetmanager.cpp:541   INFO| Package Loaded: SpearWeapon
+2021-01-04 13:00:23 [MainThread     ]   gameassetmanager.cpp:432   INFO| Start reading manifest SpearWeaponThrow
+2021-01-04 13:00:23 [MainThread     ]   gameassetmanager.cpp:485   INFO| Done reading manifest SpearWeaponThrow
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]   gameassetmanager.cpp:511   INFO| Loading package: SpearWeaponThrow.pkg
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]   gameassetmanager.cpp:541   INFO| Package Loaded: SpearWeaponThrow
+2021-01-04 13:00:23 [MainThread     ]   gameassetmanager.cpp:432   INFO| Start reading manifest SwordWeapon
+2021-01-04 13:00:23 [MainThread     ]   gameassetmanager.cpp:485   INFO| Done reading manifest SwordWeapon
+2021-01-04 13:00:23 [MainThread     ]   gameassetmanager.cpp:432   INFO| Start reading manifest ShieldWeapon
+2021-01-04 13:00:23 [MainThread     ]   gameassetmanager.cpp:485   INFO| Done reading manifest ShieldWeapon
+2021-01-04 13:00:23 [MainThread     ]   gameassetmanager.cpp:432   INFO| Start reading manifest BowWeapon
+2021-01-04 13:00:23 [MainThread     ]   gameassetmanager.cpp:485   INFO| Done reading manifest BowWeapon
+2021-01-04 13:00:23 [MainThread     ]  windowsfilesystem.cpp:209    ERR| Error opening file: E:\steam\steamapps\common\Hades\Content\Win\Packages\FistWeapon.pkg_manifest -- rb (error: No such file or directory)
+2021-01-04 13:00:23 [MainThread     ]  windowsfilesystem.cpp:209    ERR| Error opening file: E:\steam\steamapps\common\Hades\Content\Win\Packages\GunWeapon.pkg_manifest -- rb (error: No such file or directory)
+2021-01-04 13:00:23 [MainThread     ]  windowsfilesystem.cpp:209    ERR| Error opening file: E:\steam\steamapps\common\Hades\Content\Win\Packages\FistWeapon.pkg_manifest -- rb (error: No such file or directory)
+2021-01-04 13:00:23 [MainThread     ]  windowsfilesystem.cpp:209    ERR| Error opening file: E:\steam\steamapps\common\Hades\Content\Win\Packages\GunWeapon.pkg_manifest -- rb (error: No such file or directory)
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]   gameassetmanager.cpp:511   INFO| Loading package: SwordWeapon.pkg
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]   gameassetmanager.cpp:541   INFO| Package Loaded: SwordWeapon
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]   gameassetmanager.cpp:511   INFO| Loading package: ShieldWeapon.pkg
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]   gameassetmanager.cpp:541   INFO| Package Loaded: ShieldWeapon
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]   gameassetmanager.cpp:511   INFO| Loading package: BowWeapon.pkg
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]   gameassetmanager.cpp:541   INFO| Package Loaded: BowWeapon
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]   gameassetmanager.cpp:511   INFO| Loading package: FistWeapon.pkg
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]  windowsfilesystem.cpp:209    ERR| Error opening file: E:\steam\steamapps\common\Hades\Content\Win\Packages\FistWeapon.pkg_manifest -- rb (error: No such file or directory)
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]  windowsfilesystem.cpp:209    ERR| Error opening file: E:\steam\steamapps\common\Hades\Content\Win\Packages\FistWeapon.pkg -- rb (error: No such file or directory)
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]   gameassetmanager.cpp:397    ERR| Package load failed FistWeapon.pkg
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]   gameassetmanager.cpp:541   INFO| Package Loaded: FistWeapon
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]   gameassetmanager.cpp:511   INFO| Loading package: GunWeapon.pkg
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]  windowsfilesystem.cpp:209    ERR| Error opening file: E:\steam\steamapps\common\Hades\Content\Win\Packages\GunWeapon.pkg_manifest -- rb (error: No such file or directory)
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]  windowsfilesystem.cpp:209    ERR| Error opening file: E:\steam\steamapps\common\Hades\Content\Win\Packages\GunWeapon.pkg -- rb (error: No such file or directory)
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]   gameassetmanager.cpp:397    ERR| Package load failed GunWeapon.pkg
+2021-01-04 13:00:23 [GameAssetManagerLoadThread]   gameassetmanager.cpp:541   INFO| Package Loaded: GunWeapon
+2021-01-04 13:01:07 [MainThread     ]              world.cpp:1593  INFO| World::Stop()
+2021-01-04 13:01:13 [MainThread     ]       audiomanager.cpp:155    DBG| AudioManager.reset
+2021-01-04 13:01:13 [MainThread     ]       audiomanager.cpp:3365   DBG| AudioManager.reset, excludeId = -1, fullWipe = true
+2021-01-04 13:01:13 [MainThread     ]     profilemanager.cpp:126   INFO| saveProfile()
+2021-01-04 13:01:13 [NoName         ]     profilemanager.cpp:90    INFO| beginning profile write
+2021-01-04 13:01:13 [NoName         ]     profilemanager.cpp:110   INFO| profile write done
+2021-01-04 13:01:16 [MainThread     ]     profilemanager.cpp:126   INFO| saveProfile()
+2021-01-04 13:01:16 [NoName         ]     profilemanager.cpp:90    INFO| beginning profile write
+2021-01-04 13:01:16 [NoName         ]     profilemanager.cpp:110   INFO| profile write done
+2021-01-04 13:01:16 [MainThread     ]                app.cpp:254    DBG| Shutting down
+2021-01-04 13:01:16 [MainThread     ]           ingameui.cpp:37    INFO| InGameUI Destroy
+2021-01-04 13:01:16 [MainThread     ]             luaext.cpp:425   INFO| Lua interface destroyed
